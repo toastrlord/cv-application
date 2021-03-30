@@ -1,6 +1,9 @@
+import React from 'react';
+import PersonalInfo from './PersonalInfo';
+
 function App() {
   return (
-    <div></div>
+    <PersonalInfo />
   );
 }
 
